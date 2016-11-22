@@ -1,9 +1,9 @@
 //
-//  DetallesControllerEvento.swift
+//  ViewControllerEvento.swift
 //  IntegracionWP
 //
-//  Created by Ernesto Salazar on 22/11/16.
-//  Copyright © 2016 Maestro. All rights reserved.
+//  Created by Ernesto Salazar on 20/11/16.
+//  Copyright © 2016 Ernesto Salazar. All rights reserved.
 //
 
 import Foundation
