@@ -3,9 +3,8 @@
 //  IntegracionWP
 //
 //  Created by Ernesto Salazar on 20/11/16.
-//  Copyright © 2016 Maestro. All rights reserved.
+//  Copyright © 2016 Ernesto Salazar. All rights reserved.
 //
-
 
 import UIKit
 import Alamofire
